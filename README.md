@@ -1,24 +1,14 @@
-# vue-mixins
+# Vue Mixins-demo (lokal og global import)
 
-## Project setup
+## Yarn
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
 ```
 
-### Compiles and minifies for production
+## NPM
 ```
-yarn build
-```
+npm i
+npm run serve
 
-### Lints and fixes files
 ```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
